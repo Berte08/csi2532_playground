@@ -28,13 +28,24 @@ A3
 
 B2
 
-a la sortie sera:
+a- la sortie sera:
 
- |name    |experience| 
- |------- |--------- |
-1|andrew  |3         |
-2|august  |1         |
-3|haayden |2         |
+|name    |experience| 
+|------- |--------- |
+|andrew  |3          |
+|august  |1          |
+|haayden |2          |
+
+
+
+b-la sortie sera 
+
+|name      |released_date | 
+|-------   |---------     |
+|MS Words  |2011-01-20    |
+|Sketch    |2016-06-15    |
+
+
    
 
 
