@@ -118,7 +118,7 @@ INSERT INTO licences (users_id,software_name,access_code,verion) values(52,'Sket
 COMMIT;
 
  
-
+d-
 INSERT INTO licences(user_id,software_version,acces _code)
 SELECT id,
 'Sketch',
