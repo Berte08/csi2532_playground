@@ -1,4 +1,4 @@
-DEVOIR1
+# DEVOIR1
 NOM:BERTE TATA SAIDATOU
 300100935 
   PARTIE A
@@ -6,15 +6,13 @@ NOM:BERTE TATA SAIDATOU
 
   A1
   a-
+![ER Diagrams](images/a1.png)
 
-  ![ER Diagrams](images/a1.png)
   b-
-
-   ![ER Diagrams](images/a2.png)
+![ER Diagrams](images/a2.png)
 
    c-
-
-    ![ER Diagrams](images/a3.png)
+ ![ER Diagrams](images/a3.png)
 
     A2
 
