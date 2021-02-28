@@ -17,3 +17,29 @@ NOM:BERTE TATA SAIDATOU
     A2
 
 ![ER Diagrams](images/a5.png)
+
+
+A3
+
+
+
+
+
+
+B2
+
+a
+   name                    experiece
+
+1  andrew                   3
+2  august                   1
+3  haayden                  2
+
+b
+
+c
+
+d
+
+
+
