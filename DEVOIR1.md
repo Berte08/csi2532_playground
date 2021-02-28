@@ -28,18 +28,15 @@ A3
 
 B2
 
-a
-   name                    experiece
+a la sortie sera:
 
-1  andrew                   3
-2  august                   1
-3  haayden                  2
+ |name    |experience| 
+ |------- |--------- |
+1|andrew  |3         |
+2|august  |1         |
+3|haayden |2         |
+   
 
-b
-
-c
-
-d
 
 
 
