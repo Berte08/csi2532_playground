@@ -12,8 +12,8 @@ NOM:BERTE TATA SAIDATOU
 ![ER Diagrams](images/a2.png)
 
    c-
- ![ER Diagrams](images/a3.png)
+![ER Diagrams](images/a3.png)
 
     A2
 
-     ![ER Diagrams](images/a5.png)
+![ER Diagrams](images/a5.png)
