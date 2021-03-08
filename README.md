@@ -10,11 +10,15 @@ Pour le lavoratoire 4 nous avons cree des diagramme relationnel et des shemas sq
  ![ER Diagrams](images/lab4322.png)
 
 CREATE TABLE professeur(
+
 ssn int
+
 PRIMARY KEY (ssn)
 );
 
 
 CREATE TABLE cours(
+
 couseid
-PRIMARY KEY (courseid) )
+
+PRIMARY KEY (courseid) );
