@@ -2,11 +2,6 @@
 Nom berte saidatou 
 numero 300100935
 
-# lab3
-
- ![ER Diagrams](images/im1.png)
- ![ER Diagrams](images/im2.png)
-
 
 # lab4
 Pour le lavoratoire 4 nous avons cree des diagramme relationnel et des shemas sql
