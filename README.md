@@ -70,19 +70,19 @@ E1-
                                                                                                                                         
 | #   |Sports principal Seconsaire | Tie Break principal             | Score secondaire          |Tie  Break secomdaire |            
 |---  |----------------------------|---------------------------------|---------------------------|----------------------|
-| 1   |Count DESC                  |                                 |              NULL         |              NULL
-| 2   |Count DESC                  |                                 |                NULL       |               NULL 
-| 3   |Count DESC                  |                                 |                 NULL      |                NULL  
-| 4   |Count DESC                  |                                 |                 NULL      |                  NULL
-| 5   |Count DESC                  |                                 |                 NULL      |                 NULL
- 6    | Count ASC                  |                                 |                  NULL     |                   NULL
- 7    |Count ASC                   |                                 |                  NULL     |                   NULL 
- 8    | Count ASC                  |                                 |                    NULL   |                    NULL
- 9    | Count ASC                  |                                 |                      NULL |                      NULL
- 10   | Count ASC                  |                                 |                       NULL|                     NULL
- 11   | Time ASC                   |                                 |                     NULL  |                     NULL
- 12   | Time DESC                  |                                 |                     NULL  |                   NULL
- 13   | Time DESC                  |                                 |                     NULL  |                    NULL
- 14   | Time DESC                  |                                 |                       NULL|                    NULL
- 15   | Time  DESC                 |                                 |                       NULL|                     NULL 
- 16   | ........                   |            .....                |                          .|                       ....      
+| 1   |Count DESC                  |  NULL                           |              NULL         |              NULL
+| 2   |Count DESC                  |  Time ASC                       |                NULL       |               NULL 
+| 3   |Count DESC                  |  Time DESC                      |                 NULL      |                NULL  
+| 4   |Count DESC                  |  Count DESC                     |                 NULL      |                  NULL
+| 5   |Count DESC                  |  Count ASC                      |                 NULL      |                 NULL
+ 6    | Count ASC                  |  NULL                           |                  NULL     |                   NULL
+ 7    |Count ASC                   |  Time ASC                       |                  NULL     |                   NULL 
+ 8    | Count ASC                  |  Time DESC                      |                    NULL   |                    NULL
+ 9    | Count ASC                  |  Count DESC                     |                      NULL |                    NULL
+ 10   | Count ASC                  |  Count ASC                      |                       NULL|                   NULL
+ 11   | Time ASC                   |  NULL                           |                     NULL  |                   NULL
+ 12   | Time DESC                  |  Time DESC                      |                     NULL  |                   NULL
+ 13   | Time DESC                  |  Time ASC                       |                     NULL  |                    NULL
+ 14   | Time DESC                  |  Count ASC                      |                       NULL|                    NULL
+ 15   | Time  DESC                 |  Count DESC                     |                       NULL|                     NULL 
+ 16   | Time ASC                   |  NULL                           |                 NULL      |                       NULL     
