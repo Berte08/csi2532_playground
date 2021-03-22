@@ -53,8 +53,8 @@ E1-
 
 
 
- 
-|                  |            |                            |                                  |                           |                  | 
+ E2-
+                                                                                                                                        
 | nom              |date        | Adresse                    | Contact                          | Max-Athletes              |Nombres-evenements|
 |---------------   |------------|----------------------------|----------------------------------|---------------------------|------------------|
 |Sports-mecanique  |25/01/2022  |Gatineau-1663-Saint Joseph  |vv@gmail.com ou 514-7784567       | 15Femmes - 15Hommes       |    11
