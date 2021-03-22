@@ -68,7 +68,7 @@ E1-
 
 E3-
                                                                                                                                         
-| #   |Sports principal Seconsaire | Tie Break principal             | Score secondaire          |Tie  Break secomdaire |            
+| #   |Score  principal            | Tie Break principal             | Score secondaire          |Tie  Break secondaire |            
 |---  |----------------------------|---------------------------------|---------------------------|----------------------|
 | 1   |Count DESC                  |  NULL                           |              NULL         |              NULL
 | 2   |Count DESC                  |  Time ASC                       |                NULL       |               NULL 
