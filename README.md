@@ -6,6 +6,8 @@ numero 300100935
 Laboratoire 7
 
 
+
+E1-
 |id     | Name    | birthday   | gender |
 |-------|---------|------------|--------|
 |00100  |Bakary   |25/01/1998  | M      |
@@ -48,3 +50,15 @@ Laboratoire 7
  08911  | Mateo   |02/11/1996  |  M
  05633  | Anicet  |07/06/2000  |  M
  00223  | David   | 09/12/1997 |  M
+
+
+
+ E2-
+
+ nom               |date        | Adresse                    | Contact                          | Max-Athletes              |Nombres-evenements|
+|---------------   |------------|--------                    |                                  |                           |
+|Sports-mecanique  |25/01/2022  |Gatineau-1663-Saint Joseph  |vv@gmail.com ou 514-7784567       | 15Femmes - 15Hommes       |    11
+|Atlhetisme        |08/12/2021  |Toronto-109-Kent            |qtlc@hotmail.com ou 343-678-9000  | 11 Femmes - 11Hommes      |     4
+|Gymnastique       |07/09/2021  |Montreal-2478-St Catherine  |ophs@gmail.com ou 819-457-2266    | 10 Femmes - 10Hommes      |     3
+|Sports-hiver      |29/11/2022  |Quebec-388-Saugnon          |aa@gmail.com    ou 514-673-4356   | 13 Femmes - 13Hommes      |     5
+|Sports-de-combat  |29/11/2021  |Ottawa-678-Avigne           |vikyh@hotmail.com ou 819-990-4533 | 8 Femmes  - 8Hommes       |     2
