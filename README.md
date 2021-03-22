@@ -62,3 +62,27 @@ E1-
 |Gymnastique       |07/09/2021  |Montreal-2478-St Catherine  |ophs@gmail.com ou 819-457-2266    | 10 Femmes - 10Hommes      |     3
 |Sports-hiver      |29/11/2022  |Quebec-388-Saugnon          |aa@gmail.com    ou 514-673-4356   | 13 Femmes - 13Hommes      |     5
 |Sports-de-combat  |29/11/2021  |Ottawa-678-Avigne           |vikyh@hotmail.com ou 819-990-4533 | 8 Femmes  - 8Hommes       |     2
+
+
+
+
+
+                                                                                                                                        
+| #   |Sports principal Seconsaire | Tie Break principal             | Score secondaire          |Tie  Break secomdaire             
+|---  |----------------------------|---------------------------------|---------------------------|----------------------|
+| 1   |Count DESC                                                                   NULL                        NULL
+| 2   |Count DESC                                                                    NULL                       NULL 
+| 3   |Count DESC                                                                     NULL                       NULL  
+| 4   |Count DESC                                                                    NULL                        NULL
+| 5   |Count DESC                                                                    NULL                        NULL
+ 6     Count ASC                                                                      NULL                        NULL
+ 7     Count ASC                                                                       NULL                        NULL 
+ 8     Count ASC                                                                        NULL                       NULL
+ 9     Count ASC                                                                          NULL                       NULL
+ 10    Count ASC                                                                           NULL                     NULL
+ 11    Time ASC                                                                          NULL                       NULL
+ 12    Time DESC                                                                          NULL                     NULL
+ 13    Time DESC                                                                         NULL                      NULL
+ 14    Time DESC                                                                           NULL                    NULL
+ 15    Time  DESC                                                                           NULL                     NULL 
+ 16    ........                                .....                                           ...                       ....      
