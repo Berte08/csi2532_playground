@@ -54,8 +54,8 @@ E1-
 
 
  E2-
-
- nom               |date        | Adresse                    | Contact                          | Max-Athletes              |Nombres-evenements|
+|                  |            |                            |                                  |                           |                  | 
+| nom              |date        | Adresse                    | Contact                          | Max-Athletes              |Nombres-evenements|
 |---------------   |------------|---------------------------------------------------------------------------------------------------------------
 |Sports-mecanique  |25/01/2022  |Gatineau-1663-Saint Joseph  |vv@gmail.com ou 514-7784567       | 15Femmes - 15Hommes       |    11
 |Atlhetisme        |08/12/2021  |Toronto-109-Kent            |qtlc@hotmail.com ou 343-678-9000  | 11 Femmes - 11Hommes      |     4
